@@ -52,3 +52,11 @@ Anything you want or prefeer.
 Cypress will be a differentiator.
 
 ## Good look!
+
+---
+
+# How to run it?
+```sh
+$: npm run start
+```
+It'll start the server at localhost:3000.
